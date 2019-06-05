@@ -5,99 +5,73 @@ include 'includes/header.php';
 		<div class="banner">
 		</div>
    </div>
-<div class="main">
-	  <div class="pricing">
-				<div class="col_1_of_menu span_1_of_menu">
-					<div class="inner-block">
-             <h3 class="top-2"><a style="color: #F0745F" href="contact.php">Birthday Paties</a></h3>
-             <ul class="list-1 top-1 bot-2">
+   <div class="container">
+       <br>
+    <div class="row">
+     <div class="col-md-4 span_1_of_menu">
+     <h3>Birthday Parties</h3>
+     <ul class="list-1">
                  <li><a href="#">Food and bevarage production</a><span>$25.00</span><strong>&nbsp;</strong></li>
                  <li><a href="#">Food and Bevarage Service</a><span>$8.00</span><strong>&nbsp;</strong></li>
                  <li><a href="#">Baking</a><span>$19.00</span><strong>&nbsp;</strong></li>
                  <li><a href="#">Pastry</a><span>$21.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Etiam cursus leo vel metus</a><span>$15.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nec eros</a><span>$9.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Vestibulum ante ipsum primis</a><span>$12.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">In faucibus orci luctus et</a><span>$22.00</span><strong>&nbsp;</strong></li>
-             </ul>
-             <h3>graduation Paties</h3>
-             <ul class="list-1 top-4">
-                 <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Porta fusce suscipit varius miursu</a><span>$21.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Etiam cursus leo vel metus</a><span>$15.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nec eros</a><span>$9.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Vestibulum ante ipsum primis</a><span>$12.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">In faucibus orci luctus et</a><span>$22.00</span><strong>&nbsp;</strong></li>
-                  <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-             </ul>
-           </div>
-				</div>
-				<div class="col_1_of_menu span_1_of_menu">
-					<div class="inner-block">
-             <h3 class="top-2">Weddings</h3>
-             <ul class="list-1 top-1">
-                 <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Porta fusce suscipit varius miursu</a><span>$21.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Etiam cursus leo vel metus</a><span>$15.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nec eros</a><span>$9.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Vestibulum ante ipsum primis</a><span>$12.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">In faucibus orci luctus et</a><span>$22.00</span><strong>&nbsp;</strong></li>
-                  <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-             </ul>
-             <h3 class="top-2">Conference Meetings</h3>
-             <ul class="list-1 top-4">
-                 <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Porta fusce suscipit varius miursu</a><span>$21.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Etiam cursus leo vel metus</a><span>$15.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nec eros</a><span>$9.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Vestibulum ante ipsum primis</a><span>$12.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">In faucibus orci luctus et</a><span>$22.00</span><strong>&nbsp;</strong></li>
-                  <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-             </ul>
-           </div>
-				</div>
-				<div class="col_1_of_menu span_1_of_menu">
-					<div class="inner-block">
-             <h3 class="top-2">Corporate Events</h3>
-             <ul class="list-1 top-1 bot-2">
-                 <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Porta fusce suscipit varius miursu</a><span>$21.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Etiam cursus leo vel metus</a><span>$15.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nec eros</a><span>$9.00</span><strong>&nbsp;</strong></li>
-             </ul>
-             <h3>consectetuer</h3>
-             <ul class="list-1 top-4 bot">
-                 <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Porta fusce suscipit varius miursu</a><span>$21.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Etiam cursus leo vel metus</a><span>$15.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nec eros</a><span>$9.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Vestibulum ante ipsum primis</a><span>$12.00</span><strong>&nbsp;</strong></li>
-             </ul>
-             <h3>Lorem ipsum dolor</h3>
-             <ul class="list-1 top-4">
-                 <li><a href="#">Lorem ipsum dolor</a><span>$25.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Praesent vestibulum molestie</a><span>$8.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Aenean nonummy hendrerit</a><span>$19.00</span><strong>&nbsp;</strong></li>
-                 <li><a href="#">Porta fusce suscipit varius miursu</a><span>$21.00</span><strong>&nbsp;</strong></li>
-             </ul>
-           </div>
-				</div>
-				<div class="clear"></div> 
-			</div>
+                 <a  href="contact.php" class="btn btn-sm btn-primary" style="color:white; margin-left:0px;">Book Now</a>
+      </ul>
+     </div>
+     <div class="col-md-4 span_1_of_menu">
+     <h3>Weddings</h3>
+     <ul class="list-1">
+                 <li><a href="#">Food and bevarage production</a><span>$25.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Food and Bevarage Service</a><span>$8.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Baking</a><span>$19.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Pastry</a><span>$21.00</span><strong>&nbsp;</strong></li>
+                 <a  href="contact.php" class="btn btn-sm btn-primary" style="color:white; margin-left:0px;">Book Now</a>
+      </ul>
+     </div>
+     <div class="col-md-4 span_1_of_menu">
+     <h3>Conference Meetings</h3>
+     <ul class="list-1">
+                 <li><a href="#">Food and bevarage production</a><span>$25.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Food and Bevarage Service</a><span>$8.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Baking</a><span>$19.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Pastry</a><span>$21.00</span><strong>&nbsp;</strong></li>
+                 <a  href="contact.php" class="btn btn-sm btn-primary" style="color:white; margin-left:0px;">Book Now</a>
+      </ul>
+     </div>
+    </div>
+    <div class="row">
+     <div class="col-md-4 span_1_of_menu">
+     <h3>graduation paties</h3>
+     <ul class="list-1">
+                 <li><a href="#">Food and bevarage production</a><span>$25.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Food and Bevarage Service</a><span>$8.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Baking</a><span>$19.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Pastry</a><span>$21.00</span><strong>&nbsp;</strong></li>
+                 <a  href="contact.php" class="btn btn-sm btn-primary" style="color:white; margin-left:0px;">Book Now</a>
+      </ul>
+     </div>
+     <div class="col-md-4 span_1_of_menu">
+     <h3>Corpoarate Events</h3>
+     <ul class="list-1">
+                 <li><a href="#">Food and bevarage production</a><span>$25.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Food and Bevarage Service</a><span>$8.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Baking</a><span>$19.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Pastry</a><span>$21.00</span><strong>&nbsp;</strong></li>
+                 <a  href="contact.php" class="btn btn-sm btn-primary" style="color:white; margin-left:0px;">Book Now</a>
+      </ul>
+     </div>
+     <div class="col-md-4 span_1_of_menu">
+     <h3>church Events</h3>
+     <ul class="list-1">
+                 <li><a href="#">Food and bevarage production</a><span>$25.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Food and Bevarage Service</a><span>$8.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Baking</a><span>$19.00</span><strong>&nbsp;</strong></li>
+                 <li><a href="#">Pastry</a><span>$21.00</span><strong>&nbsp;</strong></li>
+                 <a  href="contact.php" class="btn btn-sm btn-primary" style="color:white; margin-left:0px;">Book Now</a>
+      </ul>
+     </div>
+    </div>
+   </div>
 		   		<div class="heading">
 				  	<h3>Our Staff</h3>
 				</div>

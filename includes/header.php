@@ -9,6 +9,17 @@
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
 <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css" type="text/css" media="all" />
 <link rel="stylesheet" href="css/bootstrap/css/bootstrap-reboot.min.css" type="text/css" media="all" />
+<style>
+ /* h3{
+	color:#C94848;
+	margin-bottom: .5em;
+	font-size:1.5em;
+	line-height: 1.2;
+	font-weight : normal;
+	margin-top: 0px;
+	letter-spacing: -1px;
+} */
+</style>
 <script src="js/modernizr.js"></script>
 <!-- jQuery -->
  <script src="js/jquery.min.js"></script>
@@ -53,11 +64,12 @@
 		<div class="menu"> 	
 			<div class="top-nav">
 				<ul>
-					<!-- <li><a href="about.php">About</a></li> | -->
+					
 					<li class="active"><a href="index.php">Home</a></li>
 					<li><a href="gallery.php">Gallery</a></li>|
 					<li><a href="services.php">Services</a></li> |
-					<li><a href="contact.php">Contact</a></li>|
+					<li><a href="about.php">About</a></li> |
+					<!-- <li><a href="contact.php">Contact</a></li>| -->
 					<li><a href="client/login.php">Login</a></li>
 				</ul>
 			</div>
